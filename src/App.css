@@ -23,6 +23,10 @@ h3 {
     font-weight: 600;
 }
 
+.gross-sales {
+    font-size: 16px;
+}
+
 .sales-banner {
     height: 270px;
     background: rgba(0, 0, 0, 0.8);
@@ -32,13 +36,12 @@ h3 {
 }
 
 .sales-banner > div {
-    margin: 20px;
+    margin: -60px 0px 0px 20px
 }
 
 .sales-title {
     margin-left: 20px;
-    padding-top: 20px;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 300;
 }
 
@@ -51,6 +54,7 @@ h3 {
 }
 
 .channel-data {
+    margin-top: -80px !important;
     grid-column-start: 2;
 }
 
@@ -76,4 +80,13 @@ h3 {
 
 .channel-gross-sales {
     margin-right: 10px;
+}
+
+.below-banner {
+    display: grid;
+    column-count: 2;
+}
+
+.want-to {
+    grid-column-start: 2;
 }

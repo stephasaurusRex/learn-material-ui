@@ -2,7 +2,7 @@ import React from "react";
 
 export default function WantTo() {
   return (
-    <div>
+    <div className="want-to">
       wantto
     </div>
   );

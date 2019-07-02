@@ -15,8 +15,10 @@ export default class TaxEngineDisplay extends React.Component {
       <>
         <EngineHeader></EngineHeader>
         <SalesBanner sales={this.props.sales}></SalesBanner>
-        <RecentArticles></RecentArticles>
-        <WantTo></WantTo>
+        <div className="below-banner">
+          <RecentArticles></RecentArticles>
+          <WantTo></WantTo>
+        </div>
       </>
     );
   }

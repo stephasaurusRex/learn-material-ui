@@ -2,7 +2,7 @@ import React from "react";
 
 export default function RecentArticles() {
   return (
-    <div>
+    <div className="articles">
       articles
     </div>
   );
