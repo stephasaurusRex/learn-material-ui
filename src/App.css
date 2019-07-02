@@ -2,13 +2,17 @@
     letter-spacing: .7px;
 }
 
+.title {
+    margin-left: 10px;
+}
+
 .inline {
     display: inline;
 }
 
 .engine-header-button {
     position: absolute !important;
-    right: 220px;
+    right: 10px;
 }
 
 h3 {
@@ -52,6 +56,7 @@ h3 {
 
 .channel-data {
     display: inline;
+    width: 30vw;
 }
 
 .channel-part {

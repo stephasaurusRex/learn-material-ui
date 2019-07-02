@@ -12,7 +12,7 @@ export default function EngineHeader() {
   return (
     <div className="engine-header">
       <div>
-        <h3 className="inline">Determination Engine</h3>
+        <h3 className="inline title">Determination Engine</h3>
         <Button variant="contained" color="primary" className="engine-header-button">
         Calculate
         </Button>
