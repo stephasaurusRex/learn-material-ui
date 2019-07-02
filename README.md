@@ -6,7 +6,7 @@ CSS adjustments were eventually made through use of classes - though if I were d
 
 Data is currently hardcoded and returned from redux actions.
 
-Testing is minimal, again because of time constraints.
+Testing is absent, due to time constraints, but should be revisited.
 
 ## Available Scripts
 
