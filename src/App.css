@@ -1,0 +1,26 @@
+.engine-header {
+    letter-spacing: .7px;
+}
+
+.inline {
+    display: inline;
+}
+
+.engine-header-button {
+    position: absolute !important;
+    right: 220px;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+.sales-banner {
+    height: 270px;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.sales-title {
+    color: #fff;
+    margin: 20px;
+}
