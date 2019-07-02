@@ -15,12 +15,60 @@ h3 {
     font-weight: 400;
 }
 
+.bold {
+    font-weight: 600;
+}
+
 .sales-banner {
     height: 270px;
     background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    display: grid;
+    grid-column-gap: 50px;
+}
+
+.sales-banner > div {
+    margin: 20px;
 }
 
 .sales-title {
-    color: #fff;
-    margin: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.monthly-data {
+    grid-column-start: 1;
+}
+
+.monthly-data > div {
+    margin-bottom: 5px;
+}
+
+.channel-data {
+    grid-column-start: 2;
+}
+
+.channel-data {
+    display: inline;
+}
+
+.channel-part {
+    display: inline;
+}
+.channel-info {
+    float: right;
+}
+
+.green {
+    color: #51c68b;
+}
+
+.red {
+    color: #ee534b;
+}
+
+.channel-gross-sales {
+    margin-right: 10px;
 }
