@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### Considerations
+## Considerations
 Since this project was time boxed at 4 hours, focus remained on project structure, correct use of tools/libraries, and production of readable/componentized code.
 
 CSS adjustments were eventually made through use of classes - though if I were doing this for production - a more through investigation of the use and adjustment of material UI themes would have made.
