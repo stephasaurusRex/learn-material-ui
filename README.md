@@ -4,6 +4,8 @@ Since this project was time boxed at 4 hours, focus remained on project structur
 
 CSS adjustments were eventually made through use of classes - though if I were doing this for production - a more through investigation of the use and adjustment of material UI themes would have made.
 
+Data is currently hardcoded and returned from redux actions.
+
 Testing is minimal, again because of time constraints.
 
 ## Available Scripts
